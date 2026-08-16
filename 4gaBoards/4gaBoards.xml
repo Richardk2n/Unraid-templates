@@ -10,10 +10,10 @@
   <Support>https://github.com/Richardk2n/Unraid-templates/issues/new/choose</Support>
   <Project>https://github.com/RARgames/4gaBoards</Project>
   <Overview>4ga Boards(https://4gaboards.com) is an straightforward realtime kanban boards management for intuitive task tracking.</Overview>
-  <Category>Other:</Category>
+  <Category>Productivity, Tools:Utilities</Category>
   <WebUI>http://[IP]:[PORT:1337]</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/Richardk2n/Unraid-templates/4gaBoards/4gaBoards.xml</TemplateURL>
-  <Icon>https://raw.githubusercontent.com/Richardk2n/Unraid-templates/4gaBoards/4ga_favicon192w.png</Icon>
+  <TemplateURL>https://raw.githubusercontent.com/Richardk2n/Unraid-templates/master/4gaBoards/4gaBoards.xml</TemplateURL>
+  <Icon>https://raw.githubusercontent.com/Richardk2n/Unraid-templates/master/4gaBoards/4ga_favicon192w.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
